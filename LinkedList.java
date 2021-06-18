@@ -1,10 +1,7 @@
 /**
  *
  * A2EmmaTran
- * COMP 2140 SECTION A01
- * INSTRUCTOR Cuneyt Akcora
- * ASSIGNMENT Assignment #2
- * @author Emma Tran, 7876069, tranmb@myumanitoba.ca
+ * COMP 2140
  * @version Monday, Feb 24th 2020
  * PURPOSE: To implement Link list merge, fix and conversion methods.
  *
