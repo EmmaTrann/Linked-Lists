@@ -4,7 +4,7 @@ import java.util.Random;
 /**
  *
  * A2EmmaTran
- * COMP 2140 SECTION A01
+ * COMP 2140 
  * INSTRUCTOR 
  * ASSIGNMENT Assignment #2
  * @author Emma Tran
